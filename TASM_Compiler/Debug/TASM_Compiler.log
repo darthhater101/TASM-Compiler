@@ -1,0 +1,4 @@
+﻿  Commands.cpp
+c:\users\razer\desktop\tasm_compiler\tasm_compiler\commands.cpp(357): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\razer\desktop\tasm_compiler\tasm_compiler\commands.cpp(68): warning C4715: Command::canGet: значение возвращается не при всех путях выполнения
+  TASM_Compiler.vcxproj -> C:\Users\razer\Desktop\TASM_Compiler\Debug\TASM_Compiler.exe
